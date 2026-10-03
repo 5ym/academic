@@ -1,10 +1,4 @@
----
-title: "11/05レポート"
-author: [丸山 竜輝]
-date: "2020-11-05"
-subject: "Markdown"
-keywords: [憲法]
-...
+.include {../../_setup.qd}
 
 # 課題
 

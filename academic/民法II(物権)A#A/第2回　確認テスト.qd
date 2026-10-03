@@ -1,10 +1,4 @@
----
-title: "第2回　確認テスト"
-author: [丸山 竜輝]
-date: "2021-04-15"
-subject: "民法"
-keywords: [民法]
-...
+.include {../../_setup.qd}
 
 # 課題
 

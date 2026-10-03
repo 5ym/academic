@@ -1,11 +1,4 @@
----
-title: "第四回講義：課題"
-author: [丸山 竜輝]
-date: "2020-10-15"
-subject: "Markdown"
-keywords: [刑法]
-lang: "en"
-...
+.include {../../_setup.qd}
 
 # 課題
 
