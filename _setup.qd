@@ -1,5 +1,0 @@
-.doctype {paged}
-.doclang {Japanese}
-.theme {paperwhite} layout:{latex}
-.pageformat size:{A4} margin:{2cm}
-.font {GoogleFonts:BIZ UDPMincho} code:{GoogleFonts:M PLUS 1 Code}
